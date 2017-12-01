@@ -1,0 +1,7 @@
+build
+/bin/
+.externalToolBuilders
+.project
+.classpath
+dist
+sysProps.xml
